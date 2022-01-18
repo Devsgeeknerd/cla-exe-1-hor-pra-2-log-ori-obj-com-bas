@@ -12,6 +12,6 @@
   - square
     > Quadrado.
   - none
-    > Sem
+    > Sem.
 
 ## Informações
