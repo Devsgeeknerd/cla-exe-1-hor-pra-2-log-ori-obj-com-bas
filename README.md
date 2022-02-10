@@ -1,19 +1,33 @@
 <!-- TITLE -->
 # Lista Não Ordenadas
 
+* ***disc***
+  * Disco (Padrão)
+
 ```css
-  list-style-type:disc
+  list-style-type:disc;
 ```
 
-* ***type***
-  * **disc**
-    * Disco (Padrão).
-  * **circle**
-    * Circulo.
-  * **square**
-    * Quadrado.
-  * **none**
-    * Nenhum.
+* ***circle***
+  * Circulo.
+
+```css
+  list-style-type:circle;
+```
+
+* ***square***
+  * Quadrado.
+
+```css
+  list-style-type:square;
+```
+
+* ***none***
+  * Nenhum.
+
+```css
+  list-style-type:none;
+```
 
 <!-- TABLE OF CONTENTS -->
 ## TABELA DE CONTEÚDO
