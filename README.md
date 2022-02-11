@@ -1,29 +1,29 @@
 <!-- TITLE -->
 # Lista Não Ordenadas
 
-* ***disc***
-  * Disco (Padrão)
+* ***disc*** (Padrão)
+> Disco. 
 
 ```css
   list-style-type:disc;
 ```
 
 * ***circle***
-  * Circulo.
+> Circulo.
 
 ```css
   list-style-type:circle;
 ```
 
 * ***square***
-  * Quadrado.
+> Quadrado.
 
 ```css
   list-style-type:square;
 ```
 
 * ***none***
-  * Nenhum.
+> Nenhum.
 
 ```css
   list-style-type:none;
