@@ -1,92 +1,52 @@
-<!-- TITLE -->
-# Lista Não Ordenadas
+<!-- Título -->
+# Exercício 1
 
-```css
-  list-style-type:disc;
-```
+***Conteúdo do Exercício:***
 
-* ***disc*** (Padrão)
-> Disco. 
+Você deverá desenvolver uma aplicação que irá fazer o gerenciamento de `contas-correntes`.
 
-```css
-  list-style-type:circle;
-```
+Cada `conta-corrente` terá um `único titular` vinculado.
 
-* ***circle***
-> Circulo.
+Os titulares terão as seguintes características:
 
-```css
-  list-style-type:square;
-```
+* Nome;
+* Sobrenome;
+* Idade;
+* CPF;
 
-* ***square***
-> Quadrado.
+A conta-corrente vinculada.
 
-```css
-  list-style-type:none;
-```
+Os titulares das contas poderão `sacar` e `depositar` uma quantia qualquer na conta-corrente que estiver vinculada a ele.
 
-* ***none***
-> Nenhum.
+Sobre as contas-correntes, elas basicamente terão as seguintes características:
 
-<!-- TABLE OF CONTENTS -->
-## TABELA DE CONTEÚDO
+* Agência;
+* Número da conta;
+* Saldo disponível.
 
-<!-- - [Vista por cima](#vista-por-cima) -->
-<!--  - [Foto da tela](#foto-da-tela) -->
-<!--  - [Links](#links) -->
-<!-- - [Meu processo](#meu-processo) -->
-<!--  - [Contruido com](#construido-com) -->
-<!--  - [O que aprendi](#o-que-aprendi) -->
-<!--  - [Desenvolvimento contínuo](#desenvolvimento-contínuo) -->
-<!--  - [Recusos úteis](#recursos-úteis) -->
-<!-- - [Autor](#autor) -->
-<!-- - [Agradecimentos](#agradecimentos) -->
-- [Informações](#informações)
+As contas-correntes também deverão possuir as ações de saque e depósito, ações estas que serão invocadas por seus titulares.
 
-<!-- OVERVIEW -->
-<!-- ## VISTA POR CIMA -->
+Ainda falando sobre as contas-correntes, você terá três tipos distintos de conta-corrente:
 
-<!-- SCREENSHOT -->
-<!-- ### FOTO DA TELA -->
+* `Conta-corrente simples`, onde o dinheiro que for depositado não sofre nenhum tipo de alteração no valor;
+* `Conta-corrente flex`, onde o dinheiro depositado é multiplicado por 2 antes de ser creditado ao saldo;
+* `Conta-corrente gold`, onde o dinheiro depositado é multiplicado por 3 antes de ser creditado ao saldo.
 
-<!-- LINKS -->
-<!-- ### LINKS -->
+[Resolução.](breve)
 
-<!-- MY PROCESS -->
-<!-- ## MEU PROCESSO -->
+<!-- Informações -->
+## &#8505; Informações
 
-<!-- BUILT WITH -->
-<!-- ### CONSTRUIDO COM -->
-
-<!-- WHAT I LEARNED -->
-<!-- ### O QUE APRENDI -->
-
-<!-- CONTINUED DEVELOPMENT -->
-<!-- ### DESENVOLVIMENTO CONTÍNUO -->
-
-<!-- USEFUL RESOURCES -->
-<!-- ### RECURSOS ÚTEIS -->
-
-<!-- AUTHOR -->
-<!-- ## AUTOR -->
-
-<!-- ACKNOWLEDGMENTS -->
-<!-- ## AGRADECIMENTOS -->
-
-<!-- INFORMATION -->
-## INFORMAÇÕES
-
-![Visitors](https://api.visitorbadge.io/api/visitors?path=Devsgeeknerd%2Flis-nao-ord&label=Visitantes&labelColor=%23f9e64f&countColor=%23008000&style=plastic "Total de Visitas")
+![Visitors](https://api.visitorbadge.io/api/visitors?path=Devsgeeknerd%2Fcla-exe-1-hor-pra-2-log-ori-obj-com-bas&label=Visitantes&labelColor=%23700070&labelStyle=none&countColor=%23000fff&style=plastic&color=%23ffffff "Total de Visitantes")
 &nbsp;
-![followrs](https://img.shields.io/github/followers/Devsgeeknerd?style=plastic&label=SEGUIDORES&labelColor=f9e64f "Total de Seguidores")
+![Followers](https://img.shields.io/github/followers/Devsgeeknerd?style=p&label=Seguidores&labelColor=800080&color=000fff "Total de Seguidores")
 &nbsp;
-![watchers](https://img.shields.io/github/watchers/Devsgeeknerd/lis-nao-ord?style=plastic&label=OBSERVADORES&labelColor=f9e64f "Total de Observadores")
+![Watchers](https://img.shields.io/github/watchers/Devsgeeknerd/cla-exe-1-hor-pra-2-log-ori-obj-com-bas?style=p&label=Observadores&labelColor=800080&color=000fff "Total de Observadores")
 &nbsp;
-![stars](https://img.shields.io/github/stars/Devsgeeknerd/lis-nao-ord?style=plastic&label=ESTRELAS&labelColor=f9e64f "Total de Estrelas Recebidas")
+![Stars](https://img.shields.io/github/stars/Devsgeeknerd/cla-exe-1-hor-pra-2-log-ori-obj-com-bas?style=p&label=Estrelas&labelColor=800080&color=000fff "Total de Estrelas")
 &nbsp;
-![forks](https://img.shields.io/github/forks/Devsgeeknerd/lis-nao-ord?style=plastic&label=BIFURCAÇÕES&labelColor=f9e64f "Total de Bifurcações")
+![Forks](https://img.shields.io/github/forks/Devsgeeknerd/cla-exe-1-hor-pra-2-log-ori-obj-com-bas?style=p&label=Bifurcações&labelColor=800080&color=000fff "Total de Bifurcações")
 &nbsp;
-![repo size](https://img.shields.io/github/repo-size/Devsgeeknerd/lis-nao-ord?style=plastic&label=TAMANHO&labelColor=f9e64f "Tamanho do Repositório")
+![Repo Size](https://img.shields.io/github/repo-size/Devsgeeknerd/cla-exe-1-hor-pra-2-log-ori-obj-com-bas?style=p&label=Tamanho&labelColor=800080&color=000fff "Tamanho do Repositório")
 &nbsp;
-![license](https://img.shields.io/github/license/Devsgeeknerd/lis-nao-ord?style=plastic&label=LICENÇA&labelColor=f9e64f "Licença do Repositório")
+![License](https://img.shields.io/github/license/Devsgeeknerd/cla-exe-1-hor-pra-2-log-ori-obj-com-bas?style=p&label=Licença&labelColor=800080&color=000fff "Licença do Repositório")
