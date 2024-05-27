@@ -35,7 +35,7 @@ public class Titular {
     return cpf;
   }
 
-  public void setCpf(string cpf) {
+  public void setCpf(String cpf) {
     this.cpf = cpf;
   }
 
