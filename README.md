@@ -32,8 +32,6 @@ Ainda falando sobre as contas-correntes, você terá três tipos distintos de co
 * `Conta-corrente flex`, onde o dinheiro depositado é multiplicado por 2 antes de ser creditado ao saldo;
 * `Conta-corrente gold`, onde o dinheiro depositado é multiplicado por 3 antes de ser creditado ao saldo.
 
-[Resolução.](breve)
-
 <!-- Informações -->
 ## &#8505; Informações
 
