@@ -32,6 +32,15 @@ Ainda falando sobre as contas-correntes, você terá três tipos distintos de co
 * `Conta-corrente flex`, onde o dinheiro depositado é multiplicado por 2 antes de ser creditado ao saldo;
 * `Conta-corrente gold`, onde o dinheiro depositado é multiplicado por 3 antes de ser creditado ao saldo.
 
+Resolução:
+
+1. [Conta Corrente.](ContaCorrente.java)
+2. [Titular.](Titular.java)
+3. [Conta Corrente Simples.](ContaCorrenteSimples.java)
+4. [Conta Corrente Flex.](ContaCorrenteFlex.java)
+5. [Conta Corrente Gold.](ContaCorrenteGold.java)
+6. [Programa.](Programa.java)
+
 <!-- Informações -->
 ## &#8505; Informações
 
