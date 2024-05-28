@@ -5,7 +5,7 @@ public class ContaCorrenteGold extends ContaCorrente {
     super(agencia, numeroConta, saldoInicial);
   }
 
-  @override
+  @Override
   public void depositar(double quantia) {
     saldo += quantia * 3;
     System.out.println("Deposito realizado com sucesso. Saldo Atual: " + saldo);
